@@ -11,8 +11,7 @@ The networking features we tried to implement here :
 We used Xampp control panel v3.3.0 to connect with MySQL (database management system) 
 and phpMyAdmin (web-based administration tool for MySQL).
 
-Used Language : Python
-Web Framework : Flask
+Used Python Web Framework : Flask
 
 Other Necessary libraries are installed in the menv virtual environment, 
 just run menv\scripts\acticate from command prompt from main directory
