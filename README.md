@@ -24,7 +24,10 @@ it asks you to install namely :
 2. flask
 3. flask-login
 4. flask-mail
-5. pillow and some more just do pip install *library name*
+5. pillow 
+6. SQLALchemy and some more 
+
+just wrtie (pip install *library name*) in command prompt
 
 
 this project was for our networking 3111 lab course, we barely got time to do anything properly 
