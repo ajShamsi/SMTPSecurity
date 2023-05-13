@@ -1,5 +1,5 @@
-# SMTPSecuirity
-A school management website to integrate SMTP and HTTP protocola
+# SMTPSecurity
+A school management website to integrate SMTP and HTTP protocols
 
 The networking features we tried to implement here :
 1. SMTP protocol for user authentication
